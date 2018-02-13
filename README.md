@@ -4,5 +4,5 @@
 Don't use Heroku.
 * __Step 2 (recommended):__  
 Stop using Heroku.
-* __Step 3 (optional:)__  
+* __Step 3 (optional):__  
 Never use Heroku again.
